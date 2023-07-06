@@ -1,4 +1,4 @@
-# Patched NerdFont
+# Patched Using NerdFont (patcher)[https://github.com/ryanoasis/nerd-fonts#font-patcher]
 
 flags used in patching:
 - complete
