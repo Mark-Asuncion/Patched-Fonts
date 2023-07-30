@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [[ -n "$1" && -n "$2"]]; then
-    if [[ "$3" == "mono"]] then
+    if [ "$3" == "mono" ] then
         fontforge --script font-patcher --mono \
             --complete --fontawesome --fontawesomeextension \
             --fontlogos --octicons --codicons --powersymbols \
